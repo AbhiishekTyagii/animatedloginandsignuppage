@@ -1,1 +1,1 @@
-# Animated Login AAnd Signup Page
+# Animated Login and Signup Page
